@@ -24,8 +24,7 @@ html,body{
 /******/
 
 header{
-	width: 67.3% ;
-	left: 249px;
+	width: 100% ;
 	position: relative;
 	background-color:rgb(220,220,220);
 	padding:10px 2% 25px 2%;
